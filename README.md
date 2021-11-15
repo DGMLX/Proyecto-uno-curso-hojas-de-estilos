@@ -1,7 +1,7 @@
 # Proyecto interminable
 
 ## Descripción
-Primer proyecto realizado en el curso de hojas de estilos y preprocesadores del diplomado en desarrollo web, aprendiendo a aplicar variables css y maquetacion de sitio segun guia de estilos
+Primer proyecto realizado en el curso de hojas de estilos y preprocesadores del diplomado en desarrollo web, aprendiendo a aplicar variables css y maquetacion de sitio segun guia de estilos, solo funcionan botones que te mandan a otra pagina, el nav no te manda  aotra pagina
 
 ## Autor
 Diego Altamirano MLX
