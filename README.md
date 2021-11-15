@@ -7,7 +7,7 @@ Primer proyecto realizado en el curso de hojas de estilos y preprocesadores del 
 Diego Altamirano MLX
  
 ## URL para ver el resultado
-Para ver proyecto en directo puedes verlo aquí 
+Para ver proyecto en directo puedes verlo aquí https://dgmlx.github.io/Proyecto-uno-curso-hojas-de-estilos/
 
 ## Contratación
 Si quieres contratarme puedes escribirme para consultas
